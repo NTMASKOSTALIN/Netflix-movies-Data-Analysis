@@ -5,7 +5,7 @@ To perform an end-to-end analysis of Netflix’s movie catalog (~10k rows) using
 Dataset used
 - <a href="https://github.com/NTMASKOSTALIN/Netflix-movies-Data-Analysis/blob/main/mymoviedb.csv">Dataset-Python
 - <a href="https://github.com/NTMASKOSTALIN/Netflix-movies-Data-Analysis/blob/main/cleaned_mymoviedb.xlsx">Dataset-Tableau
-- 
+  
 Questions(KPI):
 1. What is the most frequent genre released on Netflix?
 2. Which genre has received the highest votes?
