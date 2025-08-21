@@ -2,6 +2,9 @@
 Project Objective:
 To perform an end-to-end analysis of Netflix’s movie catalog (~10k rows) using Python and Tableau. The project explores genre distribution, popularity trends, and audience engagement patterns, with the goal of extracting actionable insights and presenting them visually for business decision-making.
 
+Dataset used
+- <a href="https://github.com/NTMASKOSTALIN/Netflix-movies-Data-Analysis/blob/main/cleaned_mymoviedb.xlsx">Dataset
+- 
 Questions(KPI):
 1. What is the most frequent genre released on Netflix?
 2. Which genre has received the highest votes?
