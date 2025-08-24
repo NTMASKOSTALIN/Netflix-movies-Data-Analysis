@@ -41,10 +41,15 @@ Dashboard:
 
 Project Insights:
 Genre Dominance: Drama is the most frequent genre, highlighting Netflix’s strong focus on storytelling-based content.
+
 Audience Engagement: Action and Adventure genres recorded the highest votes, showing greater viewer interaction.
+
 Popularity Outliers: The most popular movie significantly outperformed others, while some movies/genres had extremely low popularity.
+
 Release Growth: Movie releases surged post-2015, aligning with Netflix’s rapid global expansion.
+
 Genre Share: Drama and Comedy form the majority of Netflix’s catalog, while genres like Horror and Documentary remain niche.
+
 Popularity Trend: Average popularity has steadily increased year-over-year, reflecting rising global engagement with Netflix movies.
 
 Final Conclusions:
