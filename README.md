@@ -15,15 +15,6 @@ Questions(KPI):
 6. What is the share of each genre on Netflix?
 7. What is the trend of average popularity per year?
 
-Dashboard:
-<img width="1841" height="775" alt="Bar Chart" src="https://github.com/user-attachments/assets/663032db-bd3d-4062-8318-b5ed24b7f6d9" />
-<img width="1841" height="775" alt="Bar Chart 2" src="https://github.com/user-attachments/assets/43d600e1-b040-4fa8-835b-c8667c4e391b" />
-<img width="703" height="775" alt="Text Table" src="https://github.com/user-attachments/assets/0a37f427-315d-485c-9db8-4b99279fb759" />
-<img width="703" height="775" alt="Text Table 2" src="https://github.com/user-attachments/assets/b4a49cc0-d3dc-4cb9-8a27-4797b9daaefd" />
-<img width="1841" height="775" alt="Histogram" src="https://github.com/user-attachments/assets/5aacfd11-bb2a-4aaa-a79d-827f865900c7" />
-<img width="1823" height="774" alt="Pie chart" src="https://github.com/user-attachments/assets/d948cf31-e013-4050-a471-2ae890adc853" />
-<img width="1841" height="774" alt="Line chart" src="https://github.com/user-attachments/assets/ad9a9de1-bfcb-425d-a1ef-b7bc8b0f3941" />
-
 Process:
 * Data Preparation
 Cleaned Genre column (removed commas/white spaces).
@@ -38,6 +29,15 @@ Pie charts for genre distribution.
 Bar charts for most frequent genres and genres with highest votes.
 Highlight tables for movies with max/min popularity.
 Line chart showing popularity trends over time.
+
+Dashboard:
+<img width="1841" height="775" alt="Bar Chart" src="https://github.com/user-attachments/assets/663032db-bd3d-4062-8318-b5ed24b7f6d9" />
+<img width="1841" height="775" alt="Bar Chart 2" src="https://github.com/user-attachments/assets/43d600e1-b040-4fa8-835b-c8667c4e391b" />
+<img width="703" height="775" alt="Text Table" src="https://github.com/user-attachments/assets/0a37f427-315d-485c-9db8-4b99279fb759" />
+<img width="703" height="775" alt="Text Table 2" src="https://github.com/user-attachments/assets/b4a49cc0-d3dc-4cb9-8a27-4797b9daaefd" />
+<img width="1841" height="775" alt="Histogram" src="https://github.com/user-attachments/assets/5aacfd11-bb2a-4aaa-a79d-827f865900c7" />
+<img width="1823" height="774" alt="Pie chart" src="https://github.com/user-attachments/assets/d948cf31-e013-4050-a471-2ae890adc853" />
+<img width="1841" height="774" alt="Line chart" src="https://github.com/user-attachments/assets/ad9a9de1-bfcb-425d-a1ef-b7bc8b0f3941" />
 
 Project Insights:
 Genre Dominance: Drama is the most frequent genre, highlighting Netflix’s strong focus on storytelling-based content.
